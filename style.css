@@ -1,0 +1,40 @@
+#box {position: relative;
+    padding: 20px;
+    height: 25px;
+    background: #eeeeee;
+    text-align: center;
+    font-size: 23px;
+    color: burlywood;
+    background: black;
+   margin-top: 28px;
+}
+
+#box-2 {
+    position: absolute;
+    padding: 30px;
+    background: black;
+    color: burlywood;
+    right: -32px;
+    
+}
+
+#excited {
+    font-size: 30px;
+    color: khaki;
+    margin-top: 25px;
+    text-align: center;
+}
+
+body {
+    background: crimson;
+}
+
+h1 {
+    font-size: 45px;
+    color: darkkhaki;
+}
+
+p {
+    color: burlywood;
+    font-size: 30px;
+}
